@@ -4,7 +4,7 @@
 
 
 ```
-% go run ./main.go >> README.md
+% go run ./main.go
 
 finished
 123
